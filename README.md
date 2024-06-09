@@ -22,8 +22,8 @@ reset- Reset the time.
 <h1 align="center">
     <table align="center">
       <tr>
-        <td><img width="120" alt="chdemko" src="https://github.com/sujalvaja/Stop_watch/blob/main/reset.jpg"></a></td>
-        <td><img width="120" alt="marisbotero" src="https://github.com/sujalvaja/Stop_watch/blob/main/reset.jpg"></a></td>
+        <td><img width="120" alt="chdemko" src="https://github.com/sujalvaja/Stop_watch/blob/main/start.jpg"></a></td>
+        <td><img width="120" alt="marisbotero" src="https://github.com/sujalvaja/Stop_watch/blob/main/lap1.jpg"></a></td>
       </tr>
     </table>
 </h1>
