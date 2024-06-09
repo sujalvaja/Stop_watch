@@ -9,7 +9,7 @@ With Good UI and extra implementation.
 ## Intro
 Extremely Easy to Use App. Just click on the Start Button and the time start running with millisecond as a low limit.
 <h1 align="center">
-  <img width="120" align="center" alt="chdemko" src="https://github.com/Shivam-ingawale/Stop-Watch-App/blob/master/Screenshot%20StopWatch/1.png">
+  <img width="120" align="center" alt="chdemko" src="https://github.com/sujalvaja/Stop_watch/blob/main/reset.jpg">
 </h1>
 
 ## App Control
@@ -22,8 +22,8 @@ reset- Reset the time.
 <h1 align="center">
     <table align="center">
       <tr>
-        <td><img width="120" alt="chdemko" src="https://github.com/Shivam-ingawale/Stop-Watch-App/blob/master/Screenshot%20StopWatch/1.png"></a></td>
-        <td><img width="120" alt="marisbotero" src="https://github.com/Shivam-ingawale/Stop-Watch-App/blob/master/Screenshot%20StopWatch/2.png"></a></td>
+        <td><img width="120" alt="chdemko" src="https://github.com/sujalvaja/Stop_watch/blob/main/reset.jpg"></a></td>
+        <td><img width="120" alt="marisbotero" src="https://github.com/sujalvaja/Stop_watch/blob/main/reset.jpg"></a></td>
       </tr>
     </table>
 </h1>
